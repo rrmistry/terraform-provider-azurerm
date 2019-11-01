@@ -1,4 +1,5 @@
 ---
+subcategory: "Front Door"
 layout: "azurerm"
 page_title: "Azure Resource Manager: azurerm_front_door"
 sidebar_current: "docs-azurerm-resource-front-door"
